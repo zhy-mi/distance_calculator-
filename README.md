@@ -14,7 +14,12 @@
 4. enter y2
 
 ## sample output
-x1 = 1
-y1 = 2
-x2 = 3
-y2 = 4
+enter x1 = 1
+enter y1 = 2
+enter x2 = 3
+enter y2 = 4
+The distance between the two points is 1.41 
+
+## Author
+Name: Tablazon, Zhymee Mariz C.
+Section: 8 - Acacia
