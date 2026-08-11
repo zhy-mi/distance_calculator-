@@ -8,6 +8,7 @@
 3. enter the required values
 
 ## input needed
+The points:
 1. enter x1
 2. enter y1
 3. enter x1
