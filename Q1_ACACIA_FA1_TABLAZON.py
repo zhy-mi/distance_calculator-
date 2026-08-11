@@ -9,7 +9,7 @@ y2 = float(input("Enter y2: "))
 #distance formula
 distance = math.sqrt(math.pow(x2-x1,2) + math.pow(y2-y1,2))
 
-#answer
+#calculated distance
 print(f"\n The distance between the two points is : {distance:.2f}")
 
 
